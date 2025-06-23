@@ -1,4 +1,5 @@
 🎯 Too High Too Low
+
 Too High Too Low is a simple number guessing game built with Python Flask.
 
 When you visit the app, you're prompted to guess a number between 0 and 9 by entering it into the URL. The app responds with a fun message, a random color, and a GIF based on your guess.
